@@ -11,3 +11,5 @@
 <img width="279" height="176" alt="Снимок экрана 2026-05-06 134202" src="https://github.com/user-attachments/assets/e3529120-8aa2-45a6-8df2-8c68551daf62" />
 <img width="892" height="359" alt="Снимок экрана 2026-05-06 134625" src="https://github.com/user-attachments/assets/9458d1f8-e2a8-41eb-8410-42c7dd4356cf" />
 <img width="333" height="106" alt="Снимок экрана 2026-05-06 134756" src="https://github.com/user-attachments/assets/a9935abe-caac-4a2d-86bb-0d5c86983e64" />
+<img width="852" height="933" alt="Снимок экрана 2026-05-06 135546" src="https://github.com/user-attachments/assets/1283e0d9-98ba-4b07-ac50-febe34d69e44" />
+<img width="1123" height="877" alt="Снимок экрана 2026-05-06 135519" src="https://github.com/user-attachments/assets/dcc34dff-a8ac-4b05-ad47-39972abbe3bc" />
