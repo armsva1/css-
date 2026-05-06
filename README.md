@@ -1,4 +1,4 @@
-<img width="279" height="176" alt="Снимок экрана 2026-05-06 134202" src="https://github.com/user-attachments/assets/bd493318-a871-4514-8a29-df8377af064b" /><img width="1080" height="858" alt="Снимок экрана 2026-05-06 134213" src="https://github.com/user-attachments/assets/0e8a79bf-95b0-425f-ae92-1221fa79b3bf" /><img width="1332" height="494" alt="Снимок экрана 2026-05-06 132159" src="https://github.com/user-attachments/assets/4ef3c00b-c8fa-46ad-85fe-634708fcd15e" />
+<img width="1332" height="494" alt="Снимок экрана 2026-05-06 132159" src="https://github.com/user-attachments/assets/4ef3c00b-c8fa-46ad-85fe-634708fcd15e" />
 <img width="315" height="61" alt="Снимок экрана 2026-05-06 124928" src="https://github.com/user-attachments/assets/0f01676e-e62f-46c1-9e7f-64856efc799f" />
 <img width="1051" height="902" alt="Снимок экрана 2026-05-06 132521" src="https://github.com/user-attachments/assets/f4bdcc3f-2465-4999-93e0-36f74ff94de2" />
 <img width="269" height="411" alt="Снимок экрана 2026-05-06 132658" src="https://github.com/user-attachments/assets/b7112eb9-5061-40aa-8bb2-4b9df2fc9e93" />
